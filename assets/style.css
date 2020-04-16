@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F5E5D9;
+    font-family: 'PT Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+a:visited, a:link{
+    color: black;
+}
+a:hover{
+    color: gray;
+}
+ul{
+    list-style: none;
+}
+/* CABEÇALHO */
+header{
+    background-color: #F6F6F6;
+    border: solid 2px black;
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    padding-left: 20px;
+}
+#navegacao ul, li{
+    float: left;
+    padding: 15px;
+}
+#icones{
+    padding-top: 15px;
+    padding-right: 20px;
+}
+
