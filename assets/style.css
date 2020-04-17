@@ -18,11 +18,9 @@ a:hover{
 ul{
     list-style: none;
 }
-
 /* CABEÇALHO */
 header{
-    background-color: #F6F6F6;
-    border: solid 2px black;
+    background-color: #FFFFFF;
     display: flex;
     justify-content: space-between;
 }
@@ -41,4 +39,17 @@ header{
 .banner-topo img{
     height: auto;
     width: 100%;
+    display: flex;
+}
+/*IMAGENS CIRCULARES*/
+.fundo-imagens{
+    background-color: #F5E5D9;
+    display: flex;
+    justify-content: center;
+    height: 15em;
+}
+.fundo-imagens img{
+    width: 150px;
+    border-radius: 50%;
+    margin: 50px 25px;
 }
