@@ -4,11 +4,12 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="assets/style.css">
+    <link rel="stylesheet" href="node_modules/swiper/css/swiper.min.css">
     <title>Home Page</title>
 </head>
 
 <body>
-    <header>
+    <header>                        <!-- INCIO CABEÇALHO -->                    
         <div id="logo">
             <img src="img/logo.png" width="100px" height="80px">
         </div>
@@ -42,58 +43,124 @@
                 <img src="icons/shop.png" width="38px">
             </a>
         </div>
-    </header>
-    <section>
-        <div class="banner-topo">
-            <img src="img/red-phone.jpg">
-        </div>
-    </section>
-    <section>
-        <div class="fundo-imagens">
-            <img src="img/computer-1.jpg">
-            <img src="img/keyboard.jpg">
-            <img src="img/laptop.jpg">
-            <img src="img/phone-and-phones.jpg">
-            <img src="img/the-office-free-license-cc0.jpg">
-            <img src="img/work-place.jpg">
-        </div>
-    </section>
-    <section id="container">
-        <div class="texto-info">
-            <span>Lorem ipsum lorem dolor</span>
-            <h1>Lorem ipsum 
-                dolor sit amet
-            </h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Vestibulum ac pretium magna, in lacinia tellus. 
-                Curabitur hendrerit ipsum non nulla dignissim malesuada. 
-                Cras sed enim ligula. Cras a lectus hendrerit, pharetra dui id. 
-                Cras sit amet mattis mauris.
-            </p>
-        </div>
-        <div class="banner-info">
-            <img src="img/using-a-phone-1.jpg">
-            <h3>Titulo do banner</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur 
-                adipiscing elit, sed do eiusmod tempo
-            </p>
-        </div>
-        <div class="banner-info">
-            <img src="img/laptop.jpg">
-            <h3>Titulo do banner</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur 
-                adipiscing elit, sed do eiusmod tempo
-            </p>
-        </div>
-            <div class="banner-info">
+    </header>                           <!-- FIM CABEÇALHO -->
+    <main>
+        <section>                       <!-- INCIO BANNER TOPO -->
+            <div class="banner-topo">
+                <img src="img/red-phone.jpg">
+            </div>
+        </section>                      <!-- FIM BANNER TOPO -->
+        <section>                       <!-- INCIO IMAGENS CIRCULARES -->
+            <div class="fundo-imagens">
+                <img src="img/computer-1.jpg">
+                <img src="img/keyboard.jpg">
                 <img src="img/laptop.jpg">
-                <h3>Titulo do banner</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur 
-                    adipiscing elit, sed do eiusmod tempo
+                <img src="img/phone-and-phones.jpg">
+                <img src="img/the-office-free-license-cc0.jpg">
+                <img src="img/work-place.jpg">
+            </div>
+        </section>                      <!-- FIM IMAGENS CIRCULARES -->
+        <section id="container">        <!-- INCIO TEXTO E BANNERS -->
+            <div class="text-info">
+                <span>Lorem ipsum lorem dolor</span>
+                <h1>
+                    Lorem ipsum
+                    dolor sit amet
+                </h1>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur 
+                    adipiscing elit. Vestibulum ac pretium magna, 
+                    in lacinia tellus. Curabitur hendrerit ipsum 
+                    non nulla dignissim malesuada. Cras sed enim ligula. 
+                    Cras a lectus hendrerit, pharetra dui id. 
+                    Cras sit amet mattis mauris.
                 </p>
             </div>
+            <div class="banner-info-1">
+                <img src="img/using-a-phone-1.jpg">
+                <div class="banner-text">
+                    <h2>Titulo do banner</h2>
+                    <p>Lorem ipsum dolor sit amet, Cras a lectus
+                       consectetur adipiscing elit, mattis mauris.
+                    </p>
+                </div>
+            </div>
+            <div class="banner-info-2">
+                <img src="img/control.jpg">
+                <div class="banner-text">
+                    <h2>Titulo do banner</h2>
+                    <p>Lorem ipsum dolor sit amet, Cras a lectus
+                       consectetur adipiscing elit, mattis mauris.
+                    </p>
+                </div>
+            </div>
+            <div class="banner-info-3">
+                <img src="img/using-a-phone-1.jpg">
+                <div class="banner-text">
+                    <h2>Titulo do banner</h2>
+                    <p>Lorem ipsum dolor sit amet, Cras a lectus
+                       consectetur adipiscing elit, mattis mauris.
+                    </p>
+                </div>
+            </div>
+        </section>                      <!-- FIM TEXTO E BANNERS -->
+        <section id="fundo">            <!-- INCIO SWIPER -->
+            <div class="swiper-img">
+                <img src="img/antique-photography-free-license-cc0-1.jpg">
+            </div>
+            <div class="swiper-text">
+                <span>Lorem ipsum lorem dolor</span>
+                <h1>
+                    Lorem ipsum
+                    dolor sit amet
+                </h1>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Vestibulum ac pretium magna, in lacinia tellus.
+                    Curabitur hendrerit ipsum non nulla dignissim malesuada.
+                </p>
+                <button>Call-to-acition ></button>
+            </div>
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="img/leica-rangefinder-1.jpg" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/lens-bij-nikon-1.jpg" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/leica-camera-1.jpg" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/lens-in-case.jpg" alt="">
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </section>                      <!-- FIM SWIPER -->
+    </main>
 
-    </section>
+
+
+
+
+
+
+
+
+
+    <script src="node_modules/swiper/js/swiper.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+    </script>
+
 </body>
 
 </html>
