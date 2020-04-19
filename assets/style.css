@@ -3,16 +3,21 @@
     padding: 0;
 }
 body{
-    background-color: #F5E5D9;
+    background-color: #272727;
+}
+h1 ,h2 ,a{
     font-family: 'PT Sans', sans-serif;
+}
+p ,span{
+    font-family: 'Playfair Display', serif;
 }
 a{
     text-decoration: none;
 }
-a:visited, a:link{
+header a:visited, a:link{
     color: black;
 }
-a:hover{
+header a:hover{
     color: gray;;
     text-shadow: 0px 0px 3px red;
 }
@@ -21,20 +26,25 @@ ul{
 }
 /* CABEÇALHO */
 header{
-    background-color: #FFFFFF;
+    background-color: #E0E0E0;
     display: flex;
     justify-content: space-between;
+    padding: 0 40px;
 }
-#logo-top{
-    padding-left: 20px;
+.logo-top img{
+    width: 100px;
+    height: 80px;
 }
-#navegacao ul, li{
+.navegacao ul, li{
     float: left;
+    margin-top: 5px;
     padding: 15px;
+    font-size: 25px;
 }
-#icones{
+.icones img{
     padding-top: 15px;
-    padding-right: 20px;
+    width: 38px;
+
 }
 /* BANNER TOPO */
 .banner-topo img{
@@ -44,7 +54,6 @@ header{
 }
 /*IMAGENS CIRCULARES*/
 .fundo-imagens{
-    background-color: #F5E5D9;
     display: flex;
     justify-content: center;
     height: 20em;
@@ -56,48 +65,45 @@ header{
     border-radius: 50%;
     margin: 50px 25px;
 }
-/*BANNER MEIO*/
+/*BANNER E TEXTOS*/
 #container{
-    font-family: 'Playfair Display', serif;
     background-color: #FFFFFF; 
-    padding-top: 80px;
-    padding-bottom: 60px;
+    padding: 80px 40px;
     display: flex;
     position: relative;
 }
-
 .text-info span{
     font-size: 30px;
-    margin-left: 50px;
 }
 .text-info h1{
     font-size: 40px;
-    margin-left: 50px;
     margin-top: 50px;
     white-space: pre-line;
 }
 .text-info p{
     font-size: 25px;
-    margin-left: 50px;
     margin-top: 50px;
     white-space: pre-line;
 }
 .banner-info-1{
     position: absolute;
     left: 40%;
-    background-color: gray;
+    background-color:#000000;
+    color: #ffffff;
 }
 .banner-info-2{
-    background-color: gray;
     position: absolute;
     right: 5%;
     bottom: 30%;
+    background-color:#000000;
+    color: #ffffff;
 }
 .banner-info-3{
-    background-color: gray;
     position: absolute;
     right: 5%;
     top: 75%;
+    background-color:#000000;
+    color: #ffffff;
 }
 .banner-text {
     font-size: 20px;
@@ -108,22 +114,18 @@ header{
 #fundo{
     margin-top: 40%;
     background-color:  #FFFFFF;
-    padding: 50px 0px;
+    padding: 50px 40px;
     display: flex;
     position: relative;
     width: 85%;
-}
-.swiper-img{
-    margin-left: 50px;
 }
 .swiper-text{
     font-size: 22px;
     margin-left: 40px;
     white-space: pre-line;
-    font-family: 'Playfair Display', serif;
 }
 .swiper-text button{
-    background-color: black;
+    background-color: #000000;
     border-radius: 12px;
     color: white;
     padding: 15px 32px;
@@ -144,45 +146,53 @@ header{
 .swiper-slide{
     display: flex;
     justify-content: center;
-    background-color: white;
+    background-color: #ffffff;
 }
 /* INSTAGRAM */
 #insta-marca{
-    padding-top: 15%;
+    padding: 15% 40px;
     display: flex;
     position: relative;
 }
 .text-marca{
     position: absolute;
     left: 40%;
-    bottom: 2%;
+    bottom: 50%;
     font-size: 50px;
+}
+.text-marca a:visited ,a:link{
+    color: #f6f6f6;
 }
 .text-marca a:hover{
     color: blue;
+    text-shadow: 0px 0px 3px black;
 }
 .img-insta-1{
     position: absolute;
     left: 3%;
-    background-color: gray;
+    background-color: #f6f6f6;
     width: 27%;
 }
 .img-insta-1 img{
     padding: 140px;
 }
 .text-insta{
-    background-color: gray;
+    background-color: #f6f6f6;
     position: absolute;
     left: 35%;
     width: 25%;
     margin-top: 100px;
-    padding: 150px 50px;
+    padding: 140px 50px;
     text-align: justify;
+    font-size: 20px;
+}
+.text-insta a:visited ,a:link{
+    color: #000000;
 }
 .img-insta-2{
     position: absolute;
     right: 3%;
-    background-color: gray;
+    background-color: #f6f6f6;
     width: 27%;
 }
 .img-insta-2 img{
@@ -192,7 +202,7 @@ header{
 #logo-bottom{
     position: relative;
     margin-top: 50%;
-    background-color: gray;
+    background-color: #f6f6f6;
     height: 5px;
 }
 .logo{
@@ -202,12 +212,15 @@ header{
 }
 .logo img{
     width: 200px;
-    background-color: #F5E5D9;
+    background-color: #272727;
     padding: 0px 10px;
 }
 /* RODAPE */
 #rodape{
     margin-top: 15%;
+}
+#rodape span ,a:visited, a:link{
+    color: #f6f6f6;
 }
 .menu{
     display: flex;
@@ -215,7 +228,7 @@ header{
     font-size: 30px;
 }
 .item{
-    padding-right: 30%;
+    padding-right: 24%;
 }
 .submenus{
     position: relative;
@@ -226,21 +239,46 @@ header{
     width: 20%;
     margin-left: 120px;
 }
+.submenu a{
+    font-size: 20px;
+}
 .contato{
     position: absolute;
     left: 500px;
+    border-bottom: 1px solid #f6f6f6;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    width: 40%;
+}
+.contato input{
+    font-size: 20px;
+    width: 65%;
+    background-color: #272727;
+    color: #f6f6f6;
+    border: none;
+}
+.contato button{
+    padding-left: 22%;
+    font-size: 20px;
+    background-color: #272727;
+    color: #f6f6f6;
+    border: none;
 }
 .redes-sociais{
     position: absolute;
     right: 90px;
-    width: 10%;
+    width: 160px;
 }
 .redes-sociais img{
-    width: 30px;
+    width: 20px;
     padding-right: 5px;
+}
+.redes-sociais a{
+    font-size: 20px;
 }
 .direito{
     position: absolute;
     left: 500px;
     margin-top: 150px;
+    font-size: 21px;
 }
