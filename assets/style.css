@@ -25,7 +25,7 @@ header{
     display: flex;
     justify-content: space-between;
 }
-#logo{
+#logo-top{
     padding-left: 20px;
 }
 #navegacao ul, li{
@@ -140,10 +140,107 @@ header{
     margin-top: 100px;
     margin-left: -100px;
     position: absolute;
-
 }
 .swiper-slide{
     display: flex;
     justify-content: center;
     background-color: white;
+}
+/* INSTAGRAM */
+#insta-marca{
+    padding-top: 15%;
+    display: flex;
+    position: relative;
+}
+.text-marca{
+    position: absolute;
+    left: 40%;
+    bottom: 2%;
+    font-size: 50px;
+}
+.text-marca a:hover{
+    color: blue;
+}
+.img-insta-1{
+    position: absolute;
+    left: 3%;
+    background-color: gray;
+    width: 27%;
+}
+.img-insta-1 img{
+    padding: 140px;
+}
+.text-insta{
+    background-color: gray;
+    position: absolute;
+    left: 35%;
+    width: 25%;
+    margin-top: 100px;
+    padding: 150px 50px;
+    text-align: justify;
+}
+.img-insta-2{
+    position: absolute;
+    right: 3%;
+    background-color: gray;
+    width: 27%;
+}
+.img-insta-2 img{
+    padding: 140px;
+}
+/* LOGO BOTTOM */
+#logo-bottom{
+    position: relative;
+    margin-top: 50%;
+    background-color: gray;
+    height: 5px;
+}
+.logo{
+    position: absolute;
+    left: 43%;
+    top: -100px;
+}
+.logo img{
+    width: 200px;
+    background-color: #F5E5D9;
+    padding: 0px 10px;
+}
+/* RODAPE */
+#rodape{
+    margin-top: 15%;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.item{
+    padding-right: 30%;
+}
+.submenus{
+    position: relative;
+    margin-top: 30px;
+}
+.submenu{
+    position: absolute;
+    width: 20%;
+    margin-left: 120px;
+}
+.contato{
+    position: absolute;
+    left: 500px;
+}
+.redes-sociais{
+    position: absolute;
+    right: 90px;
+    width: 10%;
+}
+.redes-sociais img{
+    width: 30px;
+    padding-right: 5px;
+}
+.direito{
+    position: absolute;
+    left: 500px;
+    margin-top: 150px;
 }
