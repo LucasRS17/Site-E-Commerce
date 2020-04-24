@@ -1,0 +1,1733 @@
+/* DESKTOP */
+@media screen and (max-width:1920px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+button#btn{
+    display: none;
+}
+button#btn-icon{
+    display: none;
+}
+div.icones{
+    margin-top: 15%;
+    display: block;
+}
+                                /* ------------
+                                IMAGENS CIRCULARES
+                                   ------------ */
+div.fundo-imagens img{
+    width: 12%;
+    height: 14%;
+}
+                                 /* ------------
+                                   BANNER E TEXTO
+                                   ------------ */
+ div.banner-info-1{
+    width: 25%;
+    left: 42%;
+}
+div.banner-info-1 img{
+    width: 100%;
+}
+div.banner-info-2{
+    width: 25%;
+    bottom: 40%;
+}
+div.banner-info-2 img{
+    width: 100%;
+}
+div.banner-info-3{
+    width: 25%;
+    left: 70%;
+    top: 65%;
+}
+div.banner-info-3 img{
+    width: 100%;
+}
+div.banner-text{
+    width: 100%;
+}
+                                /* ------------
+                                    INSTAGRAM 
+                                   ------------ */
+div.text-marca{
+    left: 36%;
+    font-size: 70px;
+}
+div.text-insta{
+    left: 35%;
+    font-size: 30px;
+}
+img.right{
+    position: absolute;
+    left: 70%;
+}
+div.img-insta img{
+    width: 500px;
+    height: 650px;
+}
+                                /* ------------
+                                      RODAPE 
+                                   ------------ */
+button#btn-rodape{
+    display: none;
+}
+nav.redes-sociais{
+    right: 160px;
+}
+}
+@media screen and (max-width:1600px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+button#btn{
+    display: none;
+}
+button#btn-icon{
+    display: none;
+}
+div.icones{
+    margin-right: 0;
+    margin-top: 15%;
+    display: block;
+}
+                                /* ------------
+                                    INSTAGRAM 
+                                   ------------ */
+div.text-marca{
+    left: 38%;
+    font-size: 50px;
+}
+div.text-insta{
+    left: 35%;
+    font-size: 25px;
+}
+img.right{
+    position: absolute;
+    left: 68%;
+}
+div.img-insta img{
+    width: 450px;
+    height: 550px;
+}
+                                /* ------------
+                                      RODAPE 
+                                   ------------ */
+button#btn-rodape{
+    display: none;
+}
+nav.redes-sociais{
+    right: 110px;
+}
+}
+@media screen and (max-width:1440px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+button#btn{
+    display: none;
+}
+button#btn-icon{
+    display: none;
+}
+div.icones{
+    margin-top: 15%;
+    display: block;
+}
+                                /* ------------
+                                  BANNER E TEXTO 
+                                   ------------ */
+div.banner-info-1{
+    width: 25%;
+    left: 42%;
+}
+div.banner-info-1 img{
+    width: 100%;
+}
+div.banner-info-2 div{
+    display: none;
+}
+div.banner-info-2{
+    display: none;
+}
+div.banner-info-3{
+    width: 25%;
+    left: 70%;
+    top: 12%;
+}
+div.banner-info-3 img{
+    width: 100%;
+}
+                                /* ------------
+                                      SWIPER 
+                                   ------------ */
+div.swiper-container {
+    width: 100%;
+    height: 100%;
+    left: 15%;
+    margin-top: 100px;
+    margin-left: -100px;
+}
+.swiper-slide img{
+    width: 100%;
+    height: 15%;
+}
+                                /* ------------
+                                     INSTAGRAM
+                                   ------------ */
+div.text-marca{
+    left: 36%;
+    font-size: 55px;
+}
+div.text-insta{
+    left: 34%;
+    font-size: 15px;
+}
+img.right{
+    position: absolute;
+    left: 68%;
+}
+div.img-insta img{
+    width: 400px;
+    height: 500px;
+}
+                                /* ------------
+                                      RODAPE 
+                                   ------------ */
+button#btn-rodape{
+    display: none;
+}
+nav.submenu{
+    margin-left: 100px;
+}
+div.contato{
+    left: 420px;
+}
+div.contato button{
+    padding-left: 100px;
+}
+nav.redes-sociais{
+    right: 80px;
+}
+div.direito{
+    left: 420px;
+    font-size: 19px;
+}
+}
+@media screen and (max-width:1366px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+button#btn{
+    display: none;
+}
+button#btn-icon{
+    display: none;
+}
+div.icones{
+    margin-top: 15%;
+    display: block;
+}   
+                                /* ------------
+                                      SWIPER
+                                   ------------ */
+div.swiper-container {
+    width: 100%;
+    height: 100%;
+    left: 15%;
+    margin-top: 100px;
+    margin-left: -100px;
+}
+.swiper-slide img{
+    width: 100%;
+    height: 15%;
+}
+                                /* ------------
+                                   BANNER E TEXO 
+                                   ------------ */
+div.banner-info-1{
+    left: 44%;
+}
+                                /* ------------
+                                    INSTAGRAM
+                                   ------------ */
+div.text-marca{
+    left: 36%;
+    font-size: 55px;
+}
+div.text-insta{
+    left: 35%;
+    font-size: 15px;
+}
+img.right{
+    position: absolute;
+    left: 68%;
+}
+div.img-insta img{
+    width: 390px;
+    height: 500px;
+}
+                                /* ------------
+                                      RODAPE 
+                                   ------------ */
+button#btn-rodape{
+    display: none;
+}
+nav.submenu{
+    margin-left: 84px;
+}
+div.contato{
+    left: 380px;
+}
+div.contato button{
+    padding-left: 80px;
+}
+nav.redes-sociais{
+    right: 70px;
+}
+div.direito{
+    left: 380px;
+    font-size: 18px;
+}
+}
+@media screen and (max-width:1280px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+button#btn{
+    display: none;
+}
+button#btn-icon{
+    display: none;
+}
+div.icones{
+    margin-top: 15%;
+    display: block;
+}
+                                /* ------------
+                                IMAGENS CIRCULARES
+                                   ------------ */
+div.fundo-imagens img{
+    width: 12%;
+    height: 12%;
+}
+                                /* ------------
+                                  BANNER E TEXTO 
+                                   ------------ */
+div.banner-info-1{
+    left: 46%;
+    top: 5%;
+}
+div.banner-info-3{
+    left: 74%;
+    top: 5%;
+}
+                                /* ------------
+                                      SWIPER 
+                                   ------------ */
+div.swiper-text{
+    width: 80%;
+}
+div.swiper-container {
+    width: 110%;
+    height: 110%;
+    left: 15%;
+    margin-top: 120px;
+    margin-left: -120px;
+}
+.swiper-slide img{
+    width: 100%;
+    height: 15%;
+}
+                                /* ------------
+                                    INSTAGRAM
+                                   ------------ */
+div.text-marca{
+    left: 35%;
+    font-size: 55px;
+}
+div.text-insta{
+    left: 35%;
+    font-size: 15px;
+}
+img.right{
+    position: absolute;
+    left: 68%;
+}
+div.img-insta img{
+    width: 370px;
+    height: 470px;
+}
+                                /* ------------
+                                     RODAPE 
+                                   ------------ */
+button#btn-rodape{
+    display: none;
+}
+nav.submenu{
+    margin-left: 72px;
+}
+nav.submenu a{
+    font-size: 15px;
+}
+div.contato{
+    left: 340px;
+}
+div.contato button{
+    padding-left: 80px;
+}
+nav.redes-sociais{
+    right: 70px;
+}
+nav.redes-sociais a{
+    font-size: 15px;
+}
+div.direito{
+    left: 340px;
+    font-size: 17px;
+}
+}
+@media screen and (max-width:1152px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+button#btn{
+    display: none;
+}
+button#btn-icon{
+    display: none;
+}
+div.icones{
+    margin-top: 15%;
+    display: block;
+}
+                                /* ------------
+                                    BANNER E TEXO 
+                                   ------------ */
+div.banner-info-1{
+    width: 40%;
+    left: 55%;
+    top: 3%;
+}
+div.banner-info-3{
+    display: none;
+}
+                                /* ------------
+                                 IMAGENS CIRCULARES 
+                                   ------------ */
+div.fundo-imagens img{
+    width: 11%;
+    height: 11%;
+}
+                                /* ------------
+                                      SWIPER
+                                   ------------ */
+section#fundo{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 25px;
+}
+div.swiper-img img{
+    padding: 0px 30px;
+}
+div.swiper-text{
+    width: 40%;
+}
+div.swiper-text span ,h1 ,p{
+    width: 100%;
+}
+div.swiper-container{
+    display: flex;
+    position: relative;
+    width: 100%;
+    margin-top: 5%;
+}
+                                /* ------------
+                                    INSTAGRAM
+                                   ------------ */
+div.text-marca{
+    left: 33%;
+    font-size: 55px;
+}
+div.text-insta{
+    left: 36%;
+    font-size: 15px;
+}
+img.right{
+    position: absolute;
+    left: 68%;
+}
+div.img-insta img{
+    width: 320px;
+    height: 420px;
+}
+                                /* ------------
+                                      LOGO 
+                                   ------------ */
+section#logo-bottom{
+    margin-top: 70%;
+}
+                                /* ------------
+                                     RODAPE 
+                                   ------------ */
+button#btn-rodape{
+    display: none;
+}
+li.item-2{
+    padding-right: 320px;
+}
+nav.submenu{
+    margin-left: 52px;
+}
+nav.submenu a{
+    font-size: 15px;
+}
+div.contato{
+    left: 340px;
+}
+div.contato button{
+    padding-left: 60px;
+}
+nav.redes-sociais{
+    right: 40px;
+}
+nav.redes-sociais a{
+    font-size: 15px;
+}
+div.direito{
+    left: 340px;
+    font-size: 15px;
+}
+}
+@media screen and (max-width:1024px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+button#btn{
+    display: none;
+}
+div.icones{
+    margin-top: 15%;
+    display: block;
+}
+                                /* ------------
+                                    BANNER E TEXO 
+                                   ------------ */
+div.banner-info-1{
+    left: 58%;
+}
+                                /* ------------
+                                IMAGENS CIRCULARES 
+                                   ------------ */
+div.fundo-imagens img{
+    width: 12%;
+    height: 12%;
+    margin: 0 20px;
+}
+                                /* ------------
+                                    INSTAGRAM 
+                                   ------------ */
+div.text-marca{
+    left: 30%;
+    font-size: 55px;
+}
+div.text-insta{
+    left: 50%;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 10%;
+    width: 40%;
+}
+img.right{
+    display: none;
+}
+div.img-insta img{
+    width: 400px;
+    height: 540px;
+}
+div.img-insta{
+    margin-top: 10%;
+}
+button#btn-icon{
+    display: none;
+}
+                                /* ------------
+                                     RODAPE 
+                                   ------------ */
+button#btn-rodape{
+    display: none;
+}
+li.item-2{
+    padding-right: 275px;
+}
+nav.submenu{
+    margin-left: 58px;
+}
+nav.submenu a{
+    font-size: 13px;
+}
+div.contato{
+    left: 300px;
+}
+div.contato button{
+    padding-left: 50px;
+}
+nav.redes-sociais{
+    right: 40px;
+}
+nav.redes-sociais a{
+    font-size: 13px;
+}
+div.direito{
+    left: 300px;
+    font-size: 13px;
+}
+}
+@media screen and (max-width:800px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+div.logo-top{
+    position: relative;
+    left: 40%;
+}
+button#btn{
+    display: block;
+    margin-top: 25%;
+    margin-left: 25%;
+}
+button#btn.on{
+    margin-top: 10%;
+    margin-left: 45%;
+    background-color: #272727;
+    color: #fff;
+}
+nav.navegacao ul{
+    display: none;
+}
+ul#active li{
+    position: relative;
+    left: 15%;
+    float: none;
+    font-size: 15px;
+    background-color: #272727;
+    color: #fff;
+    border: 3px outset #E0E0E0;
+    width: 200px;
+}
+ul#active a{
+    color: #fff;
+    margin-left: 60px;  
+}
+ul#active a:hover{
+    text-shadow: 0px 0px 3px #E0E0E0;
+}
+div#fundo-bnt-topo{
+    position: relative;
+    right:50%;
+    padding-left: 100px;
+    background-color: #E0E0E0;
+}
+div#fundo-bnt-topo.on{
+    background-color: #272727;
+}
+button#btn-icon{
+    display: none;
+}
+div.icones{
+    display: block;
+}
+                                /* ------------
+                                  BANNER E TEXO 
+                                   ------------ */
+div.text-info p{
+        width: 70%;
+}
+div.banner-info-1{
+        width: 42%;
+        left: 55%;
+        top: 10%;
+}
+                                /* ------------
+                                 IMAGENS CIRCULARES 
+                                   ------------ */
+div.fundo-imagens img{
+    width: 12%;
+    height: 12%;
+    margin: 0 15px;
+}
+                                /* ------------
+                                      SWIPER
+                                   ------------ */
+div.swiper-container{
+     left: 22%;
+ }
+div.swiper-img{
+     display: none;
+ }
+                                /* ------------
+                                    INSTAGRAM
+                                   ------------ */
+div.text-marca{
+    left: 28%;
+}
+div.text-insta{
+    left: 55%;
+    font-size: 15px;
+    text-align: left;
+    margin-top: 14%;
+    width: 320px;
+    height: 450px;
+}
+div.img-insta img{
+    margin-top: 10%;
+    width: 320px;
+    height: 450px;
+}
+img.right{
+    left: 5%;
+}
+                                /* ------------
+                                       LOGO
+                                   ------------ */
+.logo{
+    position: absolute;
+    left: 40%;
+    top: -70px;
+   }
+div.logo img{
+    width: 150px;
+    background-color: #272727;
+    padding: 0px 10px;
+}
+                                /* ------------
+                                     RODAPE 
+                                   ------------ */
+footer#rodape{
+    margin-top: 20%;
+}
+button#btn-rodape{
+    display: none;
+}
+ul.menu li{
+    position: relative;
+    float: left;
+    font-size: 25px;
+    color: #fff;
+    width: 200px;
+    text-align: center;
+}
+li.item-2{
+    padding: 15px 0;
+}
+div.conjunto-submenu{
+    float: left;
+}
+nav.submenu{
+    position: relative;
+    float: left;
+    left: 1%;
+    width: 600px;
+}
+nav.submenu li{
+    margin: 0px 10px;
+}
+nav.submenu a{
+    font-size: 20px;
+}
+div.contato{
+    position: relative;
+    float: left;
+    left: 5%;
+    width: 90%;
+    margin-top: 15%;
+}
+div.contato button{
+    padding-left: 130px;
+}
+nav.redes-sociais{
+    position: relative;
+    float: left;
+    margin-top: 5%;
+    left: 10%;
+    width: 80%;
+    margin-top: 15%;
+}
+li.submenu-2 {
+    margin-left: 40%;
+}
+nav.redes-sociais img{
+    position: relative;
+    width: 40px;
+    top: 10px;
+}
+nav.redes-sociais a{
+    font-size: 20px;
+}
+div.direito{
+    position: relative;
+    float: left;
+    left: 10%;
+    width: 80%;
+    font-size: 20px;
+}
+}
+/* MOBILE */
+@media screen and (max-width:480px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+div.logo-top{
+        position: relative;
+        margin-top: 5%;
+        left: 40%;
+}
+button#btn{
+        position: relative;
+        left: -140%;
+        display: block;
+        margin-top: 85%;
+}
+button#btn.on{
+        margin-top: 10%;
+        margin-left: 175%;
+        background-color: #272727;
+        color: #fff;
+}
+nav.navegacao ul{
+        display: none;
+}
+ul#active li{
+        position: relative;
+        left: -5%;
+        float: none;
+        font-size: 15px;
+        background-color: #272727;
+        color: #fff;
+        border: 3px outset #E0E0E0;
+        width: 200px;
+}
+ul#active a{
+        color: #fff;
+        margin-left: 60px;  
+}
+ul#active a:hover{
+        text-shadow: 0px 0px 3px #E0E0E0;
+}
+div#fundo-bnt-topo{
+        position: relative;
+        right: 40%;
+        padding-left: 50px;
+        background-color: #E0E0E0;
+}
+div#fundo-bnt-topo.on{
+        background-color: #272727;
+}
+button#btn-icon{
+        display: block;
+        margin-top: 80%;
+}
+button#btn-icon.on{
+        position: relative;
+}
+div.icones{
+        position: relative;
+        width: 40px;
+        display: none;
+}
+                                /* ------------
+                                  IMAGENS CIRCULARES
+                                   ------------ */
+div.fundo-imagens img{
+        width: 42%;
+        height: 42%;
+        margin: 0 15px;
+}
+img.hidden{
+        display: none;
+}
+img.hidden-2{
+        display: none;
+}
+                                /* ------------
+                                  BANNER E TEXTO 
+                                   ------------ */
+div.text-info span{
+        margin: 0px;
+        font-size: 18px;
+}
+div.text-info h1{
+        margin: 0px;
+        font-size: 18px;
+}
+div.text-info p{
+        margin: 0;
+        font-size: 18px;
+        width: 280px;
+}
+div.banner-info-1{
+        width: 380px;
+        margin-top: 85%;
+        margin-left: -45%;
+}
+div.banner-info-1 img{
+        width: 380px;
+        height: 200px;
+}
+div.banner-text{
+        margin-top: 15px;
+        width: 380px;
+        font-size: 10px;
+}
+                                /* ------------
+                                     SWIPER 
+                                   ------------ */
+section#fundo{
+        margin-top: 70%;
+}
+div.swiper-text{
+        font-size: 18px;
+        width: 70%;
+}
+div.swiper-text button{
+        width: 135%;
+}
+div.swiper-container{
+        margin-top: 10%;
+        left: 28%;
+        width: 130%;
+        height: 150%;
+}
+div.swiper-img{
+         display: none;
+}
+                                /* ------------
+                                    INSTAGRAM 
+                                   ------------ */
+div.text-marca{
+        font-size: 40px;
+        left: 20%;
+}
+div.text-insta{
+        display: none;
+}
+div.img-insta img{
+        margin-left: 5%;
+        margin-top: 5%;
+        width: 370px;
+        height: 470px;
+}
+                                /* ------------
+                                    LOGO 
+                                   ------------ */
+.logo{
+        position: absolute;
+        left: 38%;
+        top: -50px;
+}
+div.logo img{
+        width: 100px;
+        background-color: #272727;
+        padding: 0px 10px;
+}
+                                /* ------------
+                                    RODAPE 
+                                   ------------ */
+footer#rodape{
+        margin-top: 20%;
+}
+button#btn-rodape{
+        display: block;
+        margin-left: 40%;
+}
+ul.menu{
+        display: none;
+}
+ul.menu li{
+        position: relative;
+        float: none;
+        font-size: 20px;
+        color: #fff;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        border-bottom: 1px solid #fff;
+}
+div.conjunto-submenu{
+        margin-top: 20px;
+        display: none;
+}
+nav.submenu{
+        float: none;
+        width: 100%;
+}
+nav.submenu li{
+        position: relative;
+        left: -15%;
+        text-align: center;
+        width: 100%;
+        border-bottom: 1px solid #fff;
+}
+nav.submenu a{
+        font-size: 20px;
+        margin-left: 10px;
+}
+div.contato{
+        position: relative;
+        float: left;
+        left: 5%;
+        width: 90%;
+        margin-top: 15%;
+}
+div.contato button{
+        padding-left: 70px;
+        font-size: 20px;
+}
+nav.redes-sociais{
+        position: relative;
+        float: left;
+        left: 10%;
+        width: 80%;
+        margin-top: 15%;
+}
+li.social-2 {
+        margin-left: 0%;
+}
+nav.redes-sociais img{
+        position: relative;
+        float: none;
+        width: 40px;
+        top: 10px;
+}
+nav.redes-sociais a{
+        font-size: 20px;
+}
+div.direito{
+        position: relative;
+        float: none;
+        top: 50px;
+        left: 10%;
+        width: 80%;
+        font-size: 20px;
+}
+}
+@media screen and (max-width:425px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+div.logo-top{
+        position: relative;
+        margin-top: 5%;
+        left: 40%;
+}
+button#btn{
+        position: relative;
+        left: -140%;
+        display: block;
+        margin-top: 85%;
+}
+button#btn.on{
+        margin-top: 10%;
+        margin-left: 175%;
+        background-color: #272727;
+        color: #fff;
+}
+nav.navegacao ul{
+        display: none;
+}
+ul#active li{
+        position: relative;
+        left: -5%;
+        float: none;
+        font-size: 15px;
+        background-color: #272727;
+        color: #fff;
+        border: 3px outset #E0E0E0;
+        width: 200px;
+}
+ul#active a{
+        color: #fff;
+        margin-left: 60px;  
+}
+ul#active a:hover{
+        text-shadow: 0px 0px 3px #E0E0E0;
+}
+div#fundo-bnt-topo{
+        position: relative;
+        right: 40%;
+        padding-left: 50px;
+        background-color: #E0E0E0;
+}
+div#fundo-bnt-topo.on{
+        background-color: #272727;
+}
+button#btn-icon{
+        display: block;
+        margin-top: 80%;
+}
+button#btn-icon.on{
+        position: relative;
+}
+div.icones{
+        position: relative;
+        width: 40px;
+        display: none;
+}
+                                /* ------------
+                                 IMAGENS CIRCULARES 
+                                   ------------ */
+div.fundo-imagens img{
+        width: 42%;
+        height: 42%;
+        margin: 0 15px;
+}
+img.hidden{
+        display: none;
+}
+img.hidden-2{
+        display: none;
+}
+                                /* ------------
+                                  BANNER E TEXTO
+                                   ------------ */
+div.text-info span{
+        margin: 0px;
+        font-size: 18px;
+}
+div.text-info h1{
+        margin: 0px;
+        font-size: 18px;
+}
+div.text-info p{
+        margin: 0;
+        font-size: 18px;
+        width: 280px;
+}
+div.banner-info-1{
+        width: 340px;
+        margin-top: 100%;
+        margin-left: -45%;
+}
+div.banner-info-1 img{
+        width: 340px;
+        height: 200px;
+}
+div.banner-text{
+        margin-top: 15px;
+        width: 340px;
+        font-size: 10px;
+}
+                                /* ------------
+                                      SWIPER
+                                   ------------ */
+section#fundo{
+        margin-top: 100%;
+}
+div.swiper-text{
+        font-size: 18px;
+        width: 70%;
+}
+div.swiper-text button{
+        width: 135%;
+}
+div.swiper-container{
+        margin-top: 10%;
+        left: 34%;
+        width: 130%;
+        height: 150%;
+}
+div.swiper-img{
+         display: none;
+}
+                                /* ------------
+                                    INSTAGRAM 
+                                   ------------ */
+div.text-marca{
+        font-size: 40px;
+        left: 20%;
+}
+div.text-insta{
+        display: none;
+}
+div.img-insta img{
+        margin-left: 0%;
+        margin-top: 5%;
+        width: 370px;
+        height: 470px;
+}
+                                /* ------------
+                                      LOGO
+                                   ------------ */
+.logo{
+        position: absolute;
+        left: 38%;
+        top: -50px;
+}
+div.logo img{
+        width: 100px;
+        background-color: #272727;
+        padding: 0px 10px;
+}
+                                /* ------------
+                                      RODAPE 
+                                   ------------ */
+footer#rodape{
+        margin-top: 20%;
+}
+button#btn-rodape{
+        display: block;
+        margin-left: 40%;
+}
+ul.menu{
+        display: none;
+}
+ul.menu li{
+        position: relative;
+        float: none;
+        font-size: 20px;
+        color: #fff;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        border-bottom: 1px solid #fff;
+}
+div.conjunto-submenu{
+        margin-top: 20px;
+        display: none;
+}
+nav.submenu{
+        float: none;
+        width: 100%;
+}
+nav.submenu li{
+        position: relative;
+        left: -18%;
+        text-align: center;
+        width: 100%;
+        border-bottom: 1px solid #fff;
+}
+nav.submenu a{
+        font-size: 20px;
+        margin-left: 10px;
+}
+div.contato{
+        position: relative;
+        float: left;
+        width: 90%;
+        margin-top: 15%;
+}
+div.contato button{
+        padding-left: 50px;
+        font-size: 20px;
+}
+nav.redes-sociais{
+        position: relative;
+        float: left;
+        left: 10%;
+        width: 80%;
+        margin-top: 15%;
+}
+li.submenu-2 {
+        margin-left: 40%;
+}
+nav.redes-sociais img{
+        position: relative;
+        float: none;
+        width: 40px;
+        top: 10px;
+}
+li.social-2{
+        margin-left: 0%;
+}
+nav.redes-sociais a{
+        font-size: 20px;
+}
+div.direito{
+        position: relative;
+        float: none;
+        top: 50px;
+        left: 10%;
+        width: 80%;
+        font-size: 20px;
+}
+}
+@media screen and (max-width:375px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+    div.logo-top{
+        position: relative;
+        margin-top: 10%;
+        left: 30%;
+    }
+    button#btn{
+        position: relative;
+        left: -80%;
+        display: block;
+        margin-top: 85%;
+    }
+    button#btn.on{
+        margin-top: 10%;
+        margin-left: 110%;
+        background-color: #272727;
+        color: #fff;
+    }
+    nav.navegacao ul{
+        display: none;
+    }
+    ul#active li{
+        position: relative;
+        left: -5%;
+        float: none;
+        font-size: 15px;
+        background-color: #272727;
+        color: #fff;
+        border: 3px outset #E0E0E0;
+        width: 200px;
+    }
+    ul#active a{
+        color: #fff;
+        margin-left: 60px;  
+    }
+    ul#active a:hover{
+        text-shadow: 0px 0px 3px #E0E0E0;
+    }
+    div#fundo-bnt-topo{
+        position: relative;
+        right:50%;
+        padding-left: 50px;
+        background-color: #E0E0E0;
+    }
+    div#fundo-bnt-topo.on{
+        background-color: #272727;
+    }
+    div.icones{
+        display: none;
+    }
+    button#btn-icon{
+        position: relative;
+        display: block;
+        margin-top: 85%;
+    }
+                                /* ------------
+                                 IMAGENS CIRCULARES 
+                                   ------------ */
+    div.fundo-imagens img{
+        width: 42%;
+        height: 42%;
+        margin: 0 15px;
+    }
+    img.hidden{
+        display: none;
+    }
+    img.hidden-2{
+        display: none;
+    }
+                                /* ------------
+                                  BANNER E TEXTO 
+                                   ------------ */
+    div.text-info span{
+        font-size: 15px;
+    }
+    div.text-info h1{
+        margin-top: 5px;
+        font-size: 15px;
+    }
+    div.text-info p{
+        margin-top: 5px;
+        font-size: 15px;
+        width: 280px;
+    }
+    div.banner-info-1{
+        width: 350px;
+        margin-top: 90%;
+        margin-left: -50%;
+    }
+    div.banner-info-1 img{
+        width: 350px;
+        height: 250px;
+    }
+    div.banner-text{
+        width: 350px;
+        font-size: 10px;
+    }
+                                /* ------------
+                                      SWIPER 
+                                   ------------ */
+    section#fundo{
+        margin-top: 110%;
+    }
+    div.swiper-text{
+        font-size: 15px;
+        width: 70%;
+    }
+    div.swiper-text button{
+        width: 135%;
+    }
+    div.swiper-container{
+        margin-top: 10%;
+        left: 38%;
+        width: 130%;
+        height: 150%;
+     }
+    div.swiper-img{
+         display: none;
+     }
+                                /* ------------
+                                    INSTAGRAM 
+                                   ------------ */
+    div.text-marca{
+        font-size: 30px;
+        left: 25%;
+    }
+    div.text-insta{
+        display: none;
+    }
+    div.img-insta img{
+        margin-left: 4px;
+        margin-top: 5px;
+        width: 310px;
+        height: 410px;
+    }
+                                /* ------------
+                                      LOGO
+                                   ------------ */
+    .logo{
+        position: absolute;
+        left: 38%;
+        top: -50px;
+       }
+    div.logo img{
+        width: 100px;
+        background-color: #272727;
+        padding: 0px 10px;
+    }
+                                /* ------------
+                                      RODAPE 
+                                   ------------ */
+    footer#rodape{
+        margin-top: 20%;
+    }
+    button#btn-rodape{
+        display: block;
+        margin-left: 40%;
+    }
+    ul.menu{
+        display: none;
+    }
+    ul.menu li{
+        position: relative;
+        left: 5px;
+        float: none;
+        font-size: 20px;
+        color: #fff;
+        width: 100%;
+        text-align: left;
+        margin: 30px 0;
+        padding: 0;
+        border-bottom: 1px solid #fff;
+    }
+    ul.menu a{
+        position: relative;
+        bottom: 10px;
+    }
+    div.conjunto-submenu{
+        margin-top: -10px;
+        display: none;
+    }
+    nav.submenu{
+        position: relative;
+        left: -6%;
+        float: left;
+        width: 100%;
+    }
+    nav.submenu li{
+        width: 110%;
+        margin: 0px 10px;
+        text-align: left;
+        border-bottom: 1px solid #fff;
+    }
+    nav.submenu a{
+        font-size: 20px; 
+    }
+    div.contato{
+        position: relative;
+        float: left;
+        left: 5%;
+        width: 90%;
+        margin-top: 15%;
+    }
+    div.contato button{
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    nav.redes-sociais{
+        position: relative;
+        float: left;
+        margin-top: 5%;
+        left: 10%;
+        width: 80%;
+        margin-top: 15%;
+    }
+    li.social-2 {
+        margin-left: 0%;
+    }
+    nav.redes-sociais img{
+        position: relative;
+        float: none;
+        width: 40px;
+        top: 10px;
+    }
+    nav.redes-sociais a{
+        font-size: 20px;
+    }
+    div.direito{
+        position: relative;
+        float: none;
+        top: 50px;
+        left: 10%;
+        width: 80%;
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:320px){
+                                /* ------------
+                                    CABEÇALHO 
+                                   ------------ */
+    div.logo-top{
+        position: relative;
+        margin-top: 10%;
+        left: 30%;
+    }
+    button#btn{
+        position: relative;
+        left: -80%;
+        display: block;
+        margin-top: 85%;
+    }
+    button#btn.on{
+        margin-top: 10%;
+        margin-left: 110%;
+        background-color: #272727;
+        color: #fff;
+    }
+    nav.navegacao ul{
+        display: none;
+    }
+    ul#active li{
+        position: relative;
+        left: -5%;
+        float: none;
+        font-size: 15px;
+        background-color: #272727;
+        color: #fff;
+        border: 3px outset #E0E0E0;
+        width: 200px;
+    }
+    ul#active a{
+        color: #fff;
+        margin-left: 60px;  
+    }
+    ul#active a:hover{
+        text-shadow: 0px 0px 3px #E0E0E0;
+    }
+    div#fundo-bnt-topo{
+        position: relative;
+        right:50%;
+        padding-left: 50px;
+        background-color: #E0E0E0;
+    }
+    div#fundo-bnt-topo.on{
+        background-color: #272727;
+    }
+    div.icones{
+        display: none;
+    }
+    button#btn-icon{
+        position: relative;
+        display: block;
+        margin-top: 85%;
+    }
+                                /* ------------
+                                IMAGENS CIRCULARES 
+                                   ------------ */
+    div.fundo-imagens img{
+        width: 42%;
+        height: 42%;
+        margin: 0 15px;
+    }
+    img.hidden{
+        display: none;
+    }
+    img.hidden-2{
+        display: none;
+    }
+                                /* ------------
+                                  BANNER E TEXTO 
+                                   ------------ */
+    div.text-info span{
+        font-size: 15px;
+    }
+    div.text-info h1{
+        margin-top: 5px;
+        font-size: 15px;
+    }
+    div.text-info p{
+        margin-top: 5px;
+        font-size: 15px;
+        width: 280px;
+    }
+    div.banner-info-1{
+        width: 280px;
+        margin-top: 110%;
+        margin-left: -50%;
+    }
+    div.banner-info-1 img{
+        width: 280px;
+        height: 180px;
+    }
+    div.banner-text{
+        width: 280px;
+        font-size: 10px;
+    }
+                                /* ------------
+                                      SWIPER 
+                                   ------------ */
+    section#fundo{
+        margin-top: 100%;
+    }
+    div.swiper-text{
+        font-size: 15px;
+        width: 70%;
+    }
+    div.swiper-text button{
+        width: 135%;
+    }
+    div.swiper-container{
+        margin-top: 10%;
+        left: 47%;
+        width: 140%;
+        height: 160%;
+     }
+    div.swiper-img{
+         display: none;
+     }
+                                /* ------------
+                                    INSTAGRAM 
+                                   ------------ */
+    div.text-marca{
+        font-size: 30px;
+        left: 12%;
+    }
+    div.text-insta{
+        display: none;
+    }
+    div.img-insta img{
+        margin-left: -10%;
+        margin-top: 5%;
+        width: 270px;
+        height: 370px;
+    }
+                                /* ------------
+                                      LOGO 
+                                   ------------ */
+    .logo{
+        position: absolute;
+        left: 35%;
+        top: -50px;
+       }
+    div.logo img{
+        width: 100px;
+        background-color: #272727;
+        padding: 0px 10px;
+    }
+                                /* ------------
+                                     RODAPE 
+                                   ------------ */
+    footer#rodape{
+        margin-top: 20%;
+    }
+    button#btn-rodape{
+        display: block;
+        margin-left: 40%;
+    }
+    ul.menu{
+        display: none;
+    }
+    ul.menu li{
+        position: relative;
+        left: 5px;
+        float: none;
+        font-size: 20px;
+        color: #fff;
+        width: 100%;
+        text-align: left;
+        margin: 30px 0;
+        padding: 0;
+        border-bottom: 1px solid #fff;
+    }
+    ul.menu a{
+        position: relative;
+        bottom: 10px;
+    }
+    div.conjunto-submenu{
+        margin-top: -10px;
+        display: none;
+    }
+    nav.submenu{
+        position: relative;
+        left: -10%;
+        float: left;
+        width: 100%;
+    }
+    nav.submenu li{
+        width: 110%;
+        margin: 0px 10px;
+        text-align: left;
+        border-bottom: 1px solid #fff;
+    }
+    nav.submenu a{
+        font-size: 20px; 
+    }
+    div.contato{
+        position: relative;
+        float: left;
+        left: 5%;
+        width: 90%;
+        margin-top: 15%;
+    }
+    div.contato button{
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    nav.redes-sociais{
+        position: relative;
+        float: left;
+        margin-top: 5%;
+        left: 10%;
+        width: 80%;
+        margin-top: 15%;
+    }
+    li.social-2 {
+        margin-left: 0%;
+    }
+    nav.redes-sociais img{
+        position: relative;
+        float: none;
+        width: 40px;
+        top: 10px;
+    }
+    nav.redes-sociais a{
+        font-size: 20px;
+    }
+    div.direito{
+        position: relative;
+        float: none;
+        top: 50px;
+        left: 10%;
+        width: 80%;
+        font-size: 20px;
+    }
+}
+
