@@ -25,10 +25,13 @@ ul{
                                 /* ------------
                                     CABEÇALHO 
                                    ------------ */
-header a:visited, a:link{
+.cabecalho a:visited{
     color: #000000;
 }
-header a:hover{
+.cabecalho a:link{
+    color: #000000;
+}
+.cabecalho a:hover{
     color: #272727;;
     text-shadow: 0px 0px 3px red;
 }
@@ -207,7 +210,10 @@ header a:hover{
     bottom: 80%;
     font-size: 50px;
 }
-.text-marca a:visited ,a:link{
+.text-marca a:visited{
+    color: #f6f6f6;
+}
+.text-marca a:link{
     color: #f6f6f6;
 }
 .text-marca a:hover{
@@ -228,7 +234,10 @@ header a:hover{
     text-align: justify;
     font-size: 20px;
 }
-.text-insta a:visited ,a:link{
+.text-insta a:visited{
+    color: #000000;
+}
+.text-insta a:link{
     color: #000000;
 }
                                 /* ------------
